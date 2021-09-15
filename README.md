@@ -1,9 +1,7 @@
-# [React: De cero a experto](https://www.udemy.com/course/react-cero-experto/)
+# Reusables
 
-## Sección 13: Repositorio de utiles
-### ¿Qué veremos en esta sección?
-- Subir código a nuestro repositorio
-- Tener un listado de customHooks y código que podemos reutilizar
-- Una idea para mantener tu repositorio ordenado con ejemplos
+In this repository I will save components, hooks, utils, helpers ... that I create and consider that I can reuse at some point. If you find it useful or interesting, feel free to use it, copy it, clone it ...
 
-No es una sección obligatoria, pero puede ayudarles a tener su código ordenado y fácil de utilizar en proyectos futuros.
+I'm a novice developer, so don't expect great things...
+
+This idea is taken from: [React: De cero a experto](https://www.udemy.com/course/react-cero-experto/)
